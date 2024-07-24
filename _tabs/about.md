@@ -10,7 +10,6 @@ title: About
 {: .prompt-tip }
 
 
-![Fidel Barasa]()
 
 
 # Greetings! I'm Fidel Barasa 👋
