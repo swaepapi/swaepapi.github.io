@@ -2,7 +2,7 @@
 title: Diving into Analysis with SQL
 image: https://images.pexels.com/photos/95916/pexels-photo-95916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 tags: [sql,analysis,databases,data visualization,monitoring,backend,]
-categories: [Development,Analysis]
+categories: [Database,Analysis,SQL]
 ---
 
 # Analyzing Data with SQL: A Beginner's Guide
