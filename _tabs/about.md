@@ -10,7 +10,7 @@ title: About
 {: .prompt-tip }
 
 
-![Fidel Barasa](https://media.licdn.com/dms/image/D4E03AQGnk6X6JbinQQ/profile-displayphoto-shrink_800_800/0/1718227637299?e=1727308800&v=beta&t=YY8uchD3F_zA_m-uukCRt_Ea8gKebem0EP69n-cpNGU)
+![Fidel Barasa]()
 
 
 # Greetings! I'm Fidel Barasa 👋
