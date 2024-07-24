@@ -1,3 +1,10 @@
+---
+title: Diving into Analysis with SQL
+image: https://images.pexels.com/photos/95916/pexels-photo-95916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+tags: [sql,analysis,databases,data visualization,monitoring,backend,]
+categories: [Development,Analysis]
+---
+
 # Analyzing Data with SQL: A Beginner's Guide
 
 Data analysis is a critical skill in today's data-driven world. SQL (Structured Query Language) is a powerful tool that allows you to interact with and analyze data stored in relational databases. In this blog post, we'll explore the basics of SQL for data analysis and provide some practical examples to get you started.
