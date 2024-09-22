@@ -64,7 +64,7 @@ Thank you for reading about my journey! If you’re a business looking for help 
 💬 **Let’s Connect:**
 - [GitHub](https://github.com/swaepapi)
 - [LinkedIn](https://www.linkedin.com/in/fidel-barasa/)
-**Email**: fidelbarasa@gmail.com
+
 
 ---
 
